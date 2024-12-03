@@ -16,7 +16,7 @@ const TEST: &str = "\
 1 3 2 4 5
 8 6 4 4 1
 1 3 6 7 9
-"; // TODO: Add the test input
+";
 
 /*
 1 3 2 4 5
